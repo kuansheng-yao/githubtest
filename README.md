@@ -5,5 +5,5 @@
 
 ## HW1: Lab 1 - Exploring the Power of LLM（Large Language Model,大型語言模型）
 
-[Code] (https://colab.research.google.com/drive/1nbx812rtcA8xLzUwi_GHusMNgcD1nnfo?hl=zh_tw#scrollTo=O-gfxRMJAgRS)
-[video] (https://youtu.be/5fotsQHgyeM)
+* [Code] (https://colab.research.google.com/drive/1nbx812rtcA8xLzUwi_GHusMNgcD1nnfo?hl=zh_tw#scrollTo=O-gfxRMJAgRS)
+* [video] (https://youtu.be/5fotsQHgyeM)
